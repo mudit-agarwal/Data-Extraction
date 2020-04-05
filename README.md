@@ -1,6 +1,6 @@
 # Data-Extraction
 
-Data can be extracted through various means
+Data can be extracted through various means:
 
 1) Through Files
 2) Through Databases - SQL/HIVE
